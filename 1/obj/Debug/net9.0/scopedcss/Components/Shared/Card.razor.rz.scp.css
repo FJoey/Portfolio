@@ -3,7 +3,7 @@
     box-shadow: 0px 4px 10px #eead22b0;
     margin-bottom: 1rem;
     background-color: #313131;
-    transition: all 0.2s ease; /* Adds a smooth transition */
+    transition: all 0.2s ease; 
 }
 
 .card:hover[b-qchsf375jp] {
