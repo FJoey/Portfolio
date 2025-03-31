@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kMe0wng+9mUTlj9O2H4H1n8O6p4ON3Eqb8AWbuv3prY=",
+  "Hash": "US1jfAeu53wA0hiFhMBp50eoC6+ChNbmTTTBZiWigyk=",
   "Source": "1",
   "BasePath": "_content/1",
   "Mode": "Default",
@@ -227,12 +227,12 @@
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-zic4aky1ss.gz",
+      "Identity": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-atkrb2kv74.gz",
       "SourceId": "1",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/1",
-      "RelativePath": "1#[.{fingerprint=zic4aky1ss}]?.styles.css.gz",
+      "RelativePath": "1#[.{fingerprint=atkrb2kv74}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -241,8 +241,8 @@
       "RelatedAsset": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jbi5qh02ln",
-      "Integrity": "/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=",
+      "Fingerprint": "ozopbtt8nt",
+      "Integrity": "xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css"
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-zic4aky1ss.gz",
+      "Identity": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-atkrb2kv74.gz",
       "SourceId": "1",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/1",
-      "RelativePath": "1#[.{fingerprint=zic4aky1ss}]!.bundle.scp.css.gz",
+      "RelativePath": "1#[.{fingerprint=atkrb2kv74}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jbi5qh02ln",
-      "Integrity": "/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=",
+      "Fingerprint": "ozopbtt8nt",
+      "Integrity": "xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "zic4aky1ss",
-      "Integrity": "lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=",
+      "Fingerprint": "atkrb2kv74",
+      "Integrity": "HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "zic4aky1ss",
-      "Integrity": "lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=",
+      "Fingerprint": "atkrb2kv74",
+      "Integrity": "HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css"
@@ -2014,13 +2014,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "1.bundle.scp.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-zic4aky1ss.gz",
+      "Route": "1.atkrb2kv74.bundle.scp.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-atkrb2kv74.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000578034682"
+          "Quality": "0.000561482313"
         }
       ],
       "ResponseHeaders": [
@@ -2030,19 +2030,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1729"
+          "Value": "1780"
         },
         {
           "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2058,18 +2058,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
+          "Value": "W/\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "atkrb2kv74"
+        },
+        {
+          "Name": "label",
+          "Value": "1.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
         }
       ]
     },
     {
-      "Route": "1.bundle.scp.css",
+      "Route": "1.atkrb2kv74.bundle.scp.css",
       "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2079,7 +2087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5830"
+          "Value": "5982"
         },
         {
           "Name": "Content-Type",
@@ -2087,258 +2095,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
+          "Value": "\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
-        }
-      ]
-    },
-    {
-      "Route": "1.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-zic4aky1ss.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs="
-        }
-      ]
-    },
-    {
-      "Route": "1.styles.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-zic4aky1ss.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000578034682"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
-        }
-      ]
-    },
-    {
-      "Route": "1.styles.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5830"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
-        }
-      ]
-    },
-    {
-      "Route": "1.styles.css.gz",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-zic4aky1ss.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs="
-        }
-      ]
-    },
-    {
-      "Route": "1.zic4aky1ss.bundle.scp.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-zic4aky1ss.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000578034682"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zic4aky1ss"
+          "Value": "atkrb2kv74"
         },
         {
           "Name": "label",
@@ -2346,13 +2117,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
         }
       ]
     },
     {
-      "Route": "1.zic4aky1ss.bundle.scp.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
+      "Route": "1.atkrb2kv74.bundle.scp.css.gz",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-atkrb2kv74.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2361,7 +2132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5830"
+          "Value": "1780"
         },
         {
           "Name": "Content-Type",
@@ -2369,56 +2140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zic4aky1ss"
-        },
-        {
-          "Name": "label",
-          "Value": "1.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
-        }
-      ]
-    },
-    {
-      "Route": "1.zic4aky1ss.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-zic4aky1ss.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2436,7 +2162,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zic4aky1ss"
+          "Value": "atkrb2kv74"
         },
         {
           "Name": "label",
@@ -2444,18 +2170,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs="
+          "Value": "sha256-xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60="
         }
       ]
     },
     {
-      "Route": "1.zic4aky1ss.styles.css",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-zic4aky1ss.gz",
+      "Route": "1.atkrb2kv74.styles.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-atkrb2kv74.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000578034682"
+          "Quality": "0.000561482313"
         }
       ],
       "ResponseHeaders": [
@@ -2465,15 +2191,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1729"
+          "Value": "1780"
         },
         {
           "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2493,13 +2219,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
+          "Value": "W/\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zic4aky1ss"
+          "Value": "atkrb2kv74"
         },
         {
           "Name": "label",
@@ -2507,12 +2233,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
         }
       ]
     },
     {
-      "Route": "1.zic4aky1ss.styles.css",
+      "Route": "1.atkrb2kv74.styles.css",
       "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2522,7 +2248,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5830"
+          "Value": "5982"
         },
         {
           "Name": "Content-Type",
@@ -2530,11 +2256,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I=\""
+          "Value": "\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2544,7 +2270,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zic4aky1ss"
+          "Value": "atkrb2kv74"
         },
         {
           "Name": "label",
@@ -2552,13 +2278,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lW0tMkQBRXDguk3NiVOJlxOjYPT/02H1aP5oxjBtu0I="
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
         }
       ]
     },
     {
-      "Route": "1.zic4aky1ss.styles.css.gz",
-      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-zic4aky1ss.gz",
+      "Route": "1.atkrb2kv74.styles.css.gz",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-atkrb2kv74.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2567,7 +2293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1729"
+          "Value": "1780"
         },
         {
           "Name": "Content-Type",
@@ -2575,11 +2301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs=\""
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 18:57:57 GMT"
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2597,7 +2323,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zic4aky1ss"
+          "Value": "atkrb2kv74"
         },
         {
           "Name": "label",
@@ -2605,7 +2331,281 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/6ngZQRkPrsYUu9pfGSjNmPtRIXfCYmJKK70MscHgFs="
+          "Value": "sha256-xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60="
+        }
+      ]
+    },
+    {
+      "Route": "1.bundle.scp.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-atkrb2kv74.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000561482313"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1780"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
+        }
+      ]
+    },
+    {
+      "Route": "1.bundle.scp.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
+        }
+      ]
+    },
+    {
+      "Route": "1.bundle.scp.css.gz",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\t7ugqpn894-atkrb2kv74.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60="
+        }
+      ]
+    },
+    {
+      "Route": "1.styles.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-atkrb2kv74.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000561482313"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1780"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
+        }
+      ]
+    },
+    {
+      "Route": "1.styles.css",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HtXQ1oSCq5ZewRqioS2MFlhv7tgKqVP0D9ePAhMghUg="
+        }
+      ]
+    },
+    {
+      "Route": "1.styles.css.gz",
+      "AssetFile": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\compressed\\7drkfapprs-atkrb2kv74.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 22:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJlCqADR+MxV9Gw0Jjmlqrj6BqciiATElaS/6+G1p60="
         }
       ]
     },

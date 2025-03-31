@@ -193,10 +193,16 @@ main[b-yub2nsdm8j] {
 /* _content/1/Components/Shared/Card.razor.rz.scp.css */
 .card[b-qchsf375jp]{
     padding: 1rem;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px #eead22b0;
     margin-bottom: 1rem;
-    border: 1px solid #eead22;
     background-color: #313131;
+    transition: all 0.2s ease; /* Adds a smooth transition */
+}
+
+.card:hover[b-qchsf375jp] {
+    box-shadow: 0px 3px 5px #eead22;
+    background-color: #313131;
+    margin-bottom: 1px;
 }
 
 .card h3[b-qchsf375jp]{
