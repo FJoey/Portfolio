@@ -1,0 +1,50 @@
+﻿<div class="top-row navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">J.M. Harrington</a>
+    </div>
+</div>
+
+<nav class="nav flex-row">
+    <div class="nav-item px-3">
+        <NavLink class="nav-link" href="bio" Match="NavLinkMatch.All">
+            <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Bio
+        </NavLink>
+    </div>
+
+    <div class="nav-item px-3">
+        <NavLink class="nav-link" @onclick="ToggleProjectsDropdown" Match="NavLinkMatch.All">
+            <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Portfolios
+        </NavLink>
+
+        @if (isProjectsDropdownVisible)
+        {
+            <div class="dropdown-menu">
+                <NavLink Match="NavLinkMatch.All" class="nav-link" href="">
+                    <span>Web</span>
+                </NavLink>
+                <NavLink Match="NavLinkMatch.All" class="nav-link" href="">
+                    <span>Mobile</span>
+                </NavLink>
+                <NavLink Match="NavLinkMatch.All" class="nav-link" href="">
+                    <span>Games</span>
+                </NavLink>
+            </div>
+        }
+    </div>
+
+    <div class="nav-item px-3">
+        <NavLink class="nav-link" href="/interactive" Match="NavLinkMatch.All">
+            <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Interactive Section
+        </NavLink>
+    </div>
+</nav>
+
+@code{
+    private bool isProjectsDropdownVisible = false;
+
+    private void ToggleProjectsDropdown(){
+        isProjectsDropdownVisible = !isProjectsDropdownVisible;
+    }
+
+}
+

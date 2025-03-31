@@ -1,0 +1,20 @@
+.introduction-container[b-ww7yg0su7d]{
+    border: 1px solid #eead22;
+    background-color: #313131;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem; 
+    max-width: 850px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cards-container[b-ww7yg0su7d]{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem; 
+}
