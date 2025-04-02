@@ -78,5 +78,5 @@ c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\ref\1.dll
 C:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\scopedcss\Components\Shared\Card.razor.rz.scp.css
 c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\1.sourcelink.json
-c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\compressed\7drkfapprs-ameew1ob15.gz
-c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\compressed\t7ugqpn894-ameew1ob15.gz
+c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\compressed\7drkfapprs-zhwzwnynfj.gz
+c:\Users\secay\Documents\Projects\Web\Portfolio\1\1\obj\Debug\net9.0\compressed\t7ugqpn894-zhwzwnynfj.gz

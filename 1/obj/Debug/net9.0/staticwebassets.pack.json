@@ -2,19 +2,43 @@
   "Files": [
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\1.ameew1ob15.bundle.scp.css"
+      "PackagePath": "staticwebassets\\1.zhwzwnynfj.bundle.scp.css"
     },
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\128254.jpg",
       "PackagePath": "staticwebassets\\128254.jpg"
     },
     {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\GitHub_Logo_White.png",
+      "PackagePath": "staticwebassets\\GitHub_Logo_White.png"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\LI-Logo.png",
+      "PackagePath": "staticwebassets\\LI-Logo.png"
+    },
+    {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\blazor-logo.png",
+      "PackagePath": "staticwebassets\\blazor-logo.png"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\csharp-logo.png",
+      "PackagePath": "staticwebassets\\csharp-logo.png"
+    },
+    {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\itchio-logo-white.png",
+      "PackagePath": "staticwebassets\\itchio-logo-white.png"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\java-logo.png",
+      "PackagePath": "staticwebassets\\java-logo.png"
     },
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -191,6 +215,10 @@
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\unity-logo.png",
+      "PackagePath": "staticwebassets\\unity-logo.png"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
