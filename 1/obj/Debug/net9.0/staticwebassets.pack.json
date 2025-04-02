@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\1.imfi2qsx83.bundle.scp.css"
+      "PackagePath": "staticwebassets\\1.ameew1ob15.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\128254.jpg",
+      "PackagePath": "staticwebassets\\128254.jpg"
     },
     {
       "Id": "c:\\Users\\secay\\Documents\\Projects\\Web\\Portfolio\\1\\1\\wwwroot\\app.css",

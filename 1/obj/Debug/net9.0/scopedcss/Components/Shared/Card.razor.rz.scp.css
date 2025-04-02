@@ -4,6 +4,7 @@
     margin-bottom: 1rem;
     background-color: #313131;
     transition: all 0.2s ease; 
+    max-width: 225px;
 }
 
 .card:hover[b-qchsf375jp] {
